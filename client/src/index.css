@@ -1,0 +1,255 @@
+// CSS STYLING FOR WEB APP
+
+@import url('https://fonts.googleapis.com/css2?family=Rammetto+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sigmar&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+
+
+.App{
+  padding: 0px 100px;
+  background-color:rgb(250, 248, 246);
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.navbar {
+  box-sizing: border-box;
+  width:100%;
+  position: fixed;
+  margin-top: -15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ff9cce;
+}
+
+.navbar h1 {
+  margin-left: 35px;
+  font-family: "Rammetto One";
+  font-size: 30px;
+  color:#f4f5ff;
+}
+
+.navbar a {
+  padding: 45px;
+  font-size: 25px;
+  font-family: "Sigmar";
+  color: #e4f78f
+}
+
+.home {
+  height:100vh;
+}
+
+.title-home {
+  
+  font-family: "Rammetto One";
+  font-size: 35px;
+  color: rgb(174, 161, 249);
+  text-align:center;
+  padding: 70px 100px;
+  margin-top: 60px;
+}
+
+.patterns {
+  display: flex;
+  flex-direction: row;
+  /* This added vertical padding b/ patterns and title */
+}
+
+.pattern-home {
+  flex: 1
+}
+
+.pattern-home img{
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  background-color:rgb(190, 234, 250);;
+}
+
+.pattern-home h2 {
+  font-family: "Rammetto One";
+  font-size: 20px;
+  color: rgb(81, 76, 76);
+
+}
+
+.button-choose-pattern {
+  background-color:rgb(216, 255, 204);
+  font-family: "Sigmar";
+}
+
+.button-choose-pattern:hover {
+  background-color:rgb(179, 241, 160);
+
+}
+
+.about {
+  height:200vh;
+  align-items:center;
+  margin-top: 120px;
+  
+}
+
+.title-about {
+  font-family: "Rammetto One";
+  font-size: 30px;
+  color:#9257f1;
+}
+
+.body-about p {
+  font-family: "PT Serif"
+}
+
+.form {
+  height:100vh;
+  align-items:center;
+  margin-top: 200px;
+  
+}
+
+.form h1 {
+  font-family: "Rammetto One";
+  color: #f42fa2
+}
+
+.form p {
+  font-family: "PT Serif"
+}
+
+.form input {
+  padding: 4px;
+  width: 40px;
+}
+
+.form button {
+  background-color:rgb(212, 204, 255);
+  font-family: "Sigmar";
+  margin: 5px 20px;
+}
+
+.form button:hover {
+  background-color:rgb(174, 161, 249);
+}
+
+.results {
+  height:auto;
+  padding-top: 120px;
+  background-color:rgb(250, 248, 246);
+}
+
+.result img{
+  width: 400px;
+  height: 400px;
+  margin: 30px 0px;
+  object-fit: cover;
+  margin-right: 90px;
+  background-color:#f790b6;
+}
+
+.result .title-result{
+  font-family: Rammetto One;
+  color:#f42fa2;
+  margin: 30px 0px;
+}
+
+.form-resubmit {
+  float: right;
+}
+
+.form-resubmit input {
+  padding: 4px;
+  width: 40px;
+}
+
+.form-resubmit button {
+  background-color:rgb(190, 234, 250);
+  font-family: "Sigmar";
+  margin: 5px 20px;
+}
+
+.form-resubmit button:hover {
+  background-color:rgb(108, 210, 248);
+}
+
+.form-resubmit p {
+  font-family: "PT Serif";
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.form-resubmit input {
+  font-family: "PT Serif"
+}
+
+.materials {
+  float: left;
+
+}
+
+.materials h2 {
+  font-family: Rammetto One;
+  font-size: 20px;
+  color:#1cb048
+}
+
+.materials ul {
+  font-family: "PT Serif";
+}
+
+.materials li {
+  position: relative;
+  left: -12px;
+}
+
+.abbrev {
+  float: left;
+}
+
+.gauge {
+  float: right;
+  position: relative;
+  left: 35px;
+
+}
+
+.abbrev h2 {
+  font-family: Rammetto One;
+  font-size: 20px;
+  color:#9257f1
+}
+
+.abbrev ul {
+  font-family: "PT Serif"
+}
+
+.gauge {
+  float:left;
+}
+
+.gauge h2 {
+  font-family: Rammetto One;
+  font-size: 20px;
+  color:#1d7ef5
+}
+
+.gauge p {
+  font-family: "PT Serif"
+}
+
+.steps {
+  align-items: left;
+  justify-content: left;
+  text-align: left;
+}
+
+.steps h2 {
+  font-family: Rammetto One;
+  color:rgb(174, 161, 249);
+}
+
+.steps p {
+  font-family: "PT Serif"
+}

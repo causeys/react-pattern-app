@@ -4,7 +4,9 @@
 
 <img width="700" alt="Screenshot 2023-07-25 at 10 00 20 PM" src="https://github.com/causeys/pattern_app/assets/61594780/c42042db-7448-4fba-a5f7-9994b7217de9">
 
-<img width="700" alt="Screenshot 2023-07-26 at 8 45 08 PM" src="https://github.com/causeys/pattern_app/assets/61594780/f875a293-1624-4a6e-a143-f73efed2ccdb">
+<img width="700" alt="Screenshot 2023-07-26 at 8 55 40 PM" src="https://github.com/causeys/pattern_app/assets/61594780/a014492c-2e3f-474e-86f4-139048841d0d">
+
+
 
 
 

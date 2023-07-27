@@ -7,6 +7,20 @@ This application provides users with different crochet and knit patterns where t
 
 <img width="700" alt="Screenshot 2023-07-26 at 8 55 40 PM" src="https://github.com/causeys/pattern_app/assets/61594780/a014492c-2e3f-474e-86f4-139048841d0d">
 
+## Technologies Used
+- React
+- Node.JS
+- Express.JS
+- MySQL
+- Nodemon
+- Axios
+- dotenv
+- react-router-dom
+
+## How to Install
+
+
+
 
 
 

@@ -62,6 +62,7 @@ $ npm install
 ```
 // In react-pattern-app/client in terminal enter following code
 $ npm start
+```
 
 
 

@@ -18,17 +18,19 @@ This application provides users with different crochet and knit patterns where t
 - react-router-dom
 
 ## Prerequisites
-In order to run the application on your machine, you will need to have [Git](https://git-scm.com/downloads), [Node.JS](https://nodejs.org/en/download) and [MySQL](https://www.mysql.com/downloads/) installed. 
+In order to run this application on your machine, you will need to have [Git](https://git-scm.com/downloads), [Node.JS](https://nodejs.org/en/download) and [MySQL](https://www.mysql.com/downloads/) installed. 
 
 ## How to Install
-1. Clone Repository
-2. Export & Set-up Database
-   - Install MySQL
+1. Clone repository using Git to get a local copy of the code:
+```
+$ git clone <https://github.com/causeys/pattern_app>
+```
+3. Export & Set-up Database
    - Export .mySQL file
    - Configure .env file with your mySQL credentials
-3. Install dependencies
-4. Connect server by navigating to dir/server and nodemon server.js
-5. Start React application by navigating to  with npm start
+4. Install dependencies
+5. Connect server by navigating to dir/server and nodemon server.js
+6. Start React application by navigating to  with npm start
 
 
 

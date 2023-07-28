@@ -1,7 +1,7 @@
 # Custom Fit Pattern Generator App
 This full-stack application provides users with different crochet and knit patterns where they can select a pattern, enter their own measurements in, and receive a customized pattern according to their measurements.
 
-<img width="700" alt="Screenshot 2023-07-28 at 12 32 54 PM" src="https://github.com/causeys/react-pattern-app/assets/61594780/61668164-e319-4032-b0e3-e1af33777494">
+<img width="700" alt="Screenshot 2023-07-28 at 12 39 16 PM" src="https://github.com/causeys/react-pattern-app/assets/61594780/143b9b91-5894-4982-9050-4fd533ac9469">
 
 <img width="700" alt="Screenshot 2023-07-28 at 12 33 15 PM" src="https://github.com/causeys/react-pattern-app/assets/61594780/8fa286dc-81a0-4301-9213-511ef4ac3802">
 

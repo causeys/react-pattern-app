@@ -25,9 +25,9 @@ In order to run this application on your machine, you will need to have [Git](ht
 ```
 $ git clone <https://github.com/causeys/react-pattern-app>
 ```
-3. Export & Set-up Database
+2. Export & Set-up Database
    - Export .mySQL file
-   - Configure .env file with your mySQL credentials
+   - Create .env file and input your mySQL credentials
      ```
      // HOST ENV VAR
      HOST = "localhost"
@@ -41,24 +41,24 @@ $ git clone <https://github.com/causeys/react-pattern-app>
      // DATABASE
      DATABASE = "pattern"
      ```
-4. Install backend dependencies
+3. Install backend dependencies
 ```
-$ cd react-pattern-app
 // Navigate to react-pattern-app/server in terminal
+$ cd react-pattern-app
 $ cd server
 $ npm install
 ```
-5. Connect to server
+4. Connect to server within react-pattern-app/server in terminal using nodemon
 ```
 $ nodemon server.js
 ```
-6. Install frontend dependencies
+5. Install frontend dependencies
 ```
 // Navigate to react-pattern-app/client in terminal
 $ cd client
 $ npm install
 ```
-7. Start-up application
+6. Start-up application
 ```
 // In react-pattern-app/client in terminal enter following code
 $ npm start

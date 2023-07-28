@@ -1,5 +1,5 @@
 # Custom Fit Pattern Generator App
-This application provides users with different crochet and knit patterns where they enter their own measurements in and receive a customized pattern according to their measurements.
+This full-stack application provides users with different crochet and knit patterns where they can select a pattern, enter their own measurements in and receive a customized pattern according to their measurements.
 
 <img width="700" alt="Screenshot 2023-07-25 at 9 59 32 PM" src="https://github.com/causeys/pattern_app/assets/61594780/0c2d8145-a33d-4304-bb27-0791b38502f4">
 
@@ -27,6 +27,7 @@ $ git clone <https://github.com/causeys/react-pattern-app>
 ```
 2. Set-up MySQL local instance and configure database using a .env file
    - After MySQL installation and set-up, create a local instance on your machine
+   - Run pattern.mysql script
    - Create .env file and input your mySQL credentials
      ```
      // HOST ENV VAR

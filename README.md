@@ -7,6 +7,9 @@ This full-stack application provides users with different crochet and knit patte
 
 <img width="700" alt="Screenshot 2023-07-26 at 8 55 40 PM" src="https://github.com/causeys/pattern_app/assets/61594780/a014492c-2e3f-474e-86f4-139048841d0d">
 
+<img width="700" alt="Screenshot 2023-07-28 at 10 05 59 AM" src="https://github.com/causeys/react-pattern-app/assets/61594780/58fd1c06-1ab4-4e81-94ad-83230da58db2">
+
+
 ## Technologies Used
 - React
 - Node.JS

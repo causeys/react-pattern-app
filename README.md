@@ -1,14 +1,13 @@
 # Custom Fit Pattern Generator App
 This full-stack application provides users with different crochet and knit patterns where they can select a pattern, enter their own measurements in, and receive a customized pattern according to their measurements.
 
-<img width="700" alt="Screenshot 2023-07-25 at 9 59 32 PM" src="https://github.com/causeys/pattern_app/assets/61594780/0c2d8145-a33d-4304-bb27-0791b38502f4">
+<img width="700" alt="Screenshot 2023-07-28 at 12 32 54 PM" src="https://github.com/causeys/react-pattern-app/assets/61594780/61668164-e319-4032-b0e3-e1af33777494">
 
-<img width="700" alt="Screenshot 2023-07-25 at 10 00 20 PM" src="https://github.com/causeys/pattern_app/assets/61594780/c42042db-7448-4fba-a5f7-9994b7217de9">
+<img width="700" alt="Screenshot 2023-07-28 at 12 33 15 PM" src="https://github.com/causeys/react-pattern-app/assets/61594780/8fa286dc-81a0-4301-9213-511ef4ac3802">
 
-<img width="700" alt="Screenshot 2023-07-26 at 8 55 40 PM" src="https://github.com/causeys/pattern_app/assets/61594780/a014492c-2e3f-474e-86f4-139048841d0d">
+<img width="700" alt="Screenshot 2023-07-28 at 12 33 37 PM" src="https://github.com/causeys/react-pattern-app/assets/61594780/a5446f57-452f-4529-975d-ffb7e7ee318d">
 
-<img width="700" alt="Screenshot 2023-07-28 at 10 05 59 AM" src="https://github.com/causeys/react-pattern-app/assets/61594780/58fd1c06-1ab4-4e81-94ad-83230da58db2">
-
+<img width="700" alt="Screenshot 2023-07-28 at 12 33 51 PM" src="https://github.com/causeys/react-pattern-app/assets/61594780/2a6239ee-85f9-44a3-81f2-3bebbbe9e102">
 
 ## Technologies Used
 - React

@@ -28,7 +28,7 @@ $ git clone <https://github.com/causeys/react-pattern-app>
 2. Set-up MySQL local instance and configure database using a .env file
    - After MySQL installation and set-up, create a local instance on your machine
    - Run db.sql script
-   - Create .env file and input your mySQL credentials
+   - Create .env file in react-pattern-app directory and input your mySQL credentials
      ```
      // HOST ENV VAR
      HOST = "localhost"

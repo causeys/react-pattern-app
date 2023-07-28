@@ -23,14 +23,49 @@ In order to run this application on your machine, you will need to have [Git](ht
 ## How to Install
 1. Clone repository using Git to get a local copy of the code:
 ```
-$ git clone <https://github.com/causeys/pattern_app>
+$ git clone <https://github.com/causeys/react-pattern-app>
 ```
 3. Export & Set-up Database
    - Export .mySQL file
    - Configure .env file with your mySQL credentials
-4. Install dependencies
-5. Connect server by navigating to dir/server and nodemon server.js
-6. Start React application by navigating to  with npm start
+     ```
+     // HOST ENV VAR
+     HOST = "localhost"
+
+     // USER ENV VAR
+     USER = "root"
+
+     // ENTER YOUR MYSQL PASSWORD, IF NONE LEAVE STRING BLANK
+     PASSWORD = ""
+
+     // DATABASE
+     DATABASE = "pattern"
+     ```
+4. Install backend dependencies
+```
+$ cd react-pattern-app
+// Navigate to react-pattern-app/server in terminal
+$ cd server
+$ npm install
+```
+5. Connect to server
+```
+$ nodemon server.js
+```
+6. Install frontend dependencies
+```
+// Navigate to react-pattern-app/client in terminal
+$ cd client
+$ npm install
+```
+7. Start-up application
+```
+// In react-pattern-app/client in terminal enter following code
+$ npm start
+
+
+
+
 
 
 

@@ -28,7 +28,7 @@ In order to run this application on your machine, you will need to have [Git](ht
 ```
 $ git clone <https://github.com/causeys/react-pattern-app>
 ```
-2. Set-up MySQL local instance and configure database using a .env file
+2. Set-up MySQL database
    - After MySQL installation and set-up, create a local instance on your machine
    - Run db.sql script
    - Create .env file in react-pattern-app directory and input your mySQL credentials
